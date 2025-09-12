@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mYgloHtDnyo=",
+  "dgSpecHash": "o5YRLg+zyRE=",
   "success": true,
-  "projectFilePath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\ServiceImplementation\\Service_Implementation.csproj",
+  "projectFilePath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\ServiceImplementation\\Service_Implementation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALQasem\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\ALQasem\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.15\\microsoft.aspnetcore.authentication.jwtbearer.8.0.15.nupkg.sha512",

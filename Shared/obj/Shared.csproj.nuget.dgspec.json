@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Shared\\Shared.csproj": {}
+    "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Shared\\Shared.csproj": {
+    "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Shared\\Shared.csproj",
+        "projectUniqueName": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Shared\\Shared.csproj",
+        "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\ALQasem\\.nuget\\packages\\",
-        "outputPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Shared\\obj\\",
+        "outputPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"

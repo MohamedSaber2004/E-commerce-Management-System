@@ -4505,11 +4505,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\E-Commerce.Web\\E-Commerce.Web.csproj",
+      "projectUniqueName": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\E-Commerce.Web\\E-Commerce.Web.csproj",
       "projectName": "E-Commerce.Web",
-      "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\E-Commerce.Web\\E-Commerce.Web.csproj",
+      "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\E-Commerce.Web\\E-Commerce.Web.csproj",
       "packagesPath": "C:\\Users\\ALQasem\\.nuget\\packages\\",
-      "outputPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\E-Commerce.Web\\obj\\",
+      "outputPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\E-Commerce.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4531,11 +4531,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Infrastructure\\Presentation-Layer\\Presentation_Layer.csproj": {
-              "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Infrastructure\\Presentation-Layer\\Presentation_Layer.csproj"
+            "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Infrastructure\\Presentation-Layer\\Presentation_Layer.csproj": {
+              "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Infrastructure\\Presentation-Layer\\Presentation_Layer.csproj"
             },
-            "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Infrastructure\\Presistence-Layer\\Persistence_Layer.csproj": {
-              "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Infrastructure\\Presistence-Layer\\Persistence_Layer.csproj"
+            "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Infrastructure\\Presistence-Layer\\Persistence_Layer.csproj": {
+              "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Infrastructure\\Presistence-Layer\\Persistence_Layer.csproj"
             }
           }
         }

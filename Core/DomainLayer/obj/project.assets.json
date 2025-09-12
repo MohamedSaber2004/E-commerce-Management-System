@@ -821,11 +821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\DomainLayer\\Domain_Layer.csproj",
+      "projectUniqueName": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\DomainLayer\\Domain_Layer.csproj",
       "projectName": "Domain_Layer",
-      "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\DomainLayer\\Domain_Layer.csproj",
+      "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\DomainLayer\\Domain_Layer.csproj",
       "packagesPath": "C:\\Users\\ALQasem\\.nuget\\packages\\",
-      "outputPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\DomainLayer\\obj\\",
+      "outputPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\DomainLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"

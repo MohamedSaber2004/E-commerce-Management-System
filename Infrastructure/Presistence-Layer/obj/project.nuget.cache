@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/YmjuMe91SU=",
+  "dgSpecHash": "NzCys/6cLx4=",
   "success": true,
-  "projectFilePath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Infrastructure\\Presistence-Layer\\Persistence_Layer.csproj",
+  "projectFilePath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Infrastructure\\Presistence-Layer\\Persistence_Layer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALQasem\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\ALQasem\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

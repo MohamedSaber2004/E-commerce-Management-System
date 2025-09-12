@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\ServiceImplementation\\Service_Implementation.csproj": {}
+    "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\ServiceImplementation\\Service_Implementation.csproj": {}
   },
   "projects": {
-    "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\DomainLayer\\Domain_Layer.csproj": {
+    "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\DomainLayer\\Domain_Layer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\DomainLayer\\Domain_Layer.csproj",
+        "projectUniqueName": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\DomainLayer\\Domain_Layer.csproj",
         "projectName": "Domain_Layer",
-        "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\DomainLayer\\Domain_Layer.csproj",
+        "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\DomainLayer\\Domain_Layer.csproj",
         "packagesPath": "C:\\Users\\ALQasem\\.nuget\\packages\\",
-        "outputPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\DomainLayer\\obj\\",
+        "outputPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -76,14 +76,14 @@
         }
       }
     },
-    "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\Service-Abstraction\\Service_Abstraction.csproj": {
+    "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\Service-Abstraction\\Service_Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\Service-Abstraction\\Service_Abstraction.csproj",
+        "projectUniqueName": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\Service-Abstraction\\Service_Abstraction.csproj",
         "projectName": "Service_Abstraction",
-        "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\Service-Abstraction\\Service_Abstraction.csproj",
+        "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\Service-Abstraction\\Service_Abstraction.csproj",
         "packagesPath": "C:\\Users\\ALQasem\\.nuget\\packages\\",
-        "outputPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\Service-Abstraction\\obj\\",
+        "outputPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\Service-Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -105,8 +105,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Shared\\Shared.csproj": {
-                "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Shared\\Shared.csproj"
+              "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Shared\\Shared.csproj": {
+                "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Shared\\Shared.csproj"
               }
             }
           }
@@ -146,14 +146,14 @@
         }
       }
     },
-    "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\ServiceImplementation\\Service_Implementation.csproj": {
+    "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\ServiceImplementation\\Service_Implementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\ServiceImplementation\\Service_Implementation.csproj",
+        "projectUniqueName": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\ServiceImplementation\\Service_Implementation.csproj",
         "projectName": "Service_Implementation",
-        "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\ServiceImplementation\\Service_Implementation.csproj",
+        "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\ServiceImplementation\\Service_Implementation.csproj",
         "packagesPath": "C:\\Users\\ALQasem\\.nuget\\packages\\",
-        "outputPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\ServiceImplementation\\obj\\",
+        "outputPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\ServiceImplementation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -175,11 +175,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\DomainLayer\\Domain_Layer.csproj": {
-                "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\DomainLayer\\Domain_Layer.csproj"
+              "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\DomainLayer\\Domain_Layer.csproj": {
+                "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\DomainLayer\\Domain_Layer.csproj"
               },
-              "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\Service-Abstraction\\Service_Abstraction.csproj": {
-                "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\Service-Abstraction\\Service_Abstraction.csproj"
+              "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\Service-Abstraction\\Service_Abstraction.csproj": {
+                "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\Service-Abstraction\\Service_Abstraction.csproj"
               }
             }
           }
@@ -237,14 +237,14 @@
         }
       }
     },
-    "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Shared\\Shared.csproj": {
+    "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Shared\\Shared.csproj",
+        "projectUniqueName": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Shared\\Shared.csproj",
+        "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\ALQasem\\.nuget\\packages\\",
-        "outputPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Shared\\obj\\",
+        "outputPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"

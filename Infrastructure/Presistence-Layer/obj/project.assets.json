@@ -2777,11 +2777,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Infrastructure\\Presistence-Layer\\Persistence_Layer.csproj",
+      "projectUniqueName": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Infrastructure\\Presistence-Layer\\Persistence_Layer.csproj",
       "projectName": "Persistence_Layer",
-      "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Infrastructure\\Presistence-Layer\\Persistence_Layer.csproj",
+      "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Infrastructure\\Presistence-Layer\\Persistence_Layer.csproj",
       "packagesPath": "C:\\Users\\ALQasem\\.nuget\\packages\\",
-      "outputPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Infrastructure\\Presistence-Layer\\obj\\",
+      "outputPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Infrastructure\\Presistence-Layer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2803,8 +2803,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\ServiceImplementation\\Service_Implementation.csproj": {
-              "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\Core\\ServiceImplementation\\Service_Implementation.csproj"
+            "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\ServiceImplementation\\Service_Implementation.csproj": {
+              "projectPath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\Core\\ServiceImplementation\\Service_Implementation.csproj"
             }
           }
         }

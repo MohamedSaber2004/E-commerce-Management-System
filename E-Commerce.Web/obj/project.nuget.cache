@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sM345JQMuqY=",
+  "dgSpecHash": "3rsKw5PMxVM=",
   "success": true,
-  "projectFilePath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce Management System\\E-Commerce.Web\\E-Commerce.Web.csproj",
+  "projectFilePath": "E:\\Course Tasks\\ASP.NET Core API\\E-commerce-Management-System\\E-Commerce.Web\\E-Commerce.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALQasem\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\ALQasem\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
